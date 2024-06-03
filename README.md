@@ -1,4 +1,6 @@
 ## Hi there 👋
+신구대 2021143013 김준성입니다.
+화이팅
 
 <!--
 **kevin02232988/kevin02232988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
